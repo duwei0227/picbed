@@ -20,7 +20,7 @@
 
 
 
-`token`生成：
+`token`生成：  
 1、访问 [https://github.com/settings/tokens](https://github.com/settings/tokens)
 
 2、点击 `New personal access token (classic)`
